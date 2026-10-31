@@ -1,0 +1,5 @@
+project     = "flask"
+environment = "dev"
+owner       = "sathish"
+acr_name    = "flaskdevacrsathish24"
+acr_sku     = "Basic"

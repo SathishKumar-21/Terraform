@@ -1,0 +1,5 @@
+project             = "flask"
+environment         = "dev"
+owner               = "sathish"
+vm_size             = "Standard_B2ats_v2"
+ssh_public_key_path = "~/.ssh/azure_lab.pub"
